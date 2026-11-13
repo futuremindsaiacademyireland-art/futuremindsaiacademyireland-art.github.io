@@ -1,5 +1,3 @@
-# futuremindsaiacademyireland-art.github.io
-Welcome to the future
 # Future Minds AI Academy
 
 A responsive, static HTML5 website designed for GitHub Pages.
